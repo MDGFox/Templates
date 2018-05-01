@@ -1,0 +1,30 @@
+body{
+    height: 200px;
+    background-color: #eee;
+}
+.p-slider{
+    padding: 0;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    height: 48px;
+    width: 48px;
+}
+.p-about_us{
+    padding-top: 125px;
+    background-color: white;
+}
+.p-contacts{
+    background-color: #eee;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.card{
+    width: 21rem;
+}
+.page-footer{
+    height: 100%;
+}
+.p-header{
+    height: 200px;
+
+}
